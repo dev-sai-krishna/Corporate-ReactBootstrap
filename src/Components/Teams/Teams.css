@@ -1,0 +1,29 @@
+.hr{
+    margin: 4rem 0rem;
+}
+
+.image1{
+    height: 300px;
+    cursor: pointer;
+}
+
+.img1{
+    width: 300px;
+    height: 300px;
+}
+
+.icons{
+    visibility: hidden;
+}
+
+.content h3{
+    color: black;
+}
+
+.content .designation{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.content p{
+    margin-top: .4rem;
+}

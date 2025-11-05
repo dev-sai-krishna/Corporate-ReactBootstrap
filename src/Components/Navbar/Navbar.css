@@ -1,0 +1,13 @@
+ .nav-list:hover{
+    border-bottom: 1px solid red;
+    color: red;
+}
+
+.nav-link{
+    font-size: 13.5px;
+}
+
+.logo{
+    color: orangered;
+    font-size: 1.5rem
+}

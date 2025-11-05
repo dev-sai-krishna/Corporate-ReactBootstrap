@@ -1,0 +1,27 @@
+.footer{
+    background-color: hsl(16, 100%, 50%);
+    padding: 2rem 0rem; 
+}
+
+.socials ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+}
+
+.socials ul li a{
+    font-size: 1.2rem;
+    color: orangered;
+    padding: .6rem;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.socials ul li a:hover{
+    color: white;
+    background-color: orangered;
+}
+

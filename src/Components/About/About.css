@@ -1,0 +1,59 @@
+.about{
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+
+.row h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row .aboutP{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(140, 138, 138);
+    margin-bottom: 3rem;
+}
+.row .lead{
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+}
+
+.progress-block{
+    margin-top: 2rem;
+}
+
+
+h4{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.progress .bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: orangered;  
+    width: 80%;
+}
+.progress .bar2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: orangered;  
+    width: 95%;
+}
+.progress .bar3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: orangered;  
+    width: 60%;
+}

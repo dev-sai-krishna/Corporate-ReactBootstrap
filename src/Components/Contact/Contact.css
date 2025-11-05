@@ -1,0 +1,43 @@
+.map{
+    width: 100%;
+    height: 350px;
+}
+
+.contact-btn:hover{
+    background-color: white;
+}
+
+.contact-info ul li i{
+    font-size: 3rem;
+    color: orangered;
+}
+
+.contact-info ul{
+    gap: 12rem;
+    margin: 2rem 0rem;
+    display: flex;
+}
+
+.contact-info ul li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 766px) {
+    .contact-info ul{
+        display: flex;
+        flex-direction: column;
+        gap: 0rem;
+    }
+
+    .contact-info ul li{
+        font-size: 1rem;
+    }
+
+    .contact-info ul li i{
+        font-size: 2rem;
+    }
+}

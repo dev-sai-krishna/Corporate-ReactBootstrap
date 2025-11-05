@@ -1,0 +1,23 @@
+.container .p-text{
+    color: gray;
+}
+
+.premium{
+    scale: 1.1;
+}
+
+.premium .heading{
+    background-color: orangered;
+}
+
+.btn-holder a:hover{
+ background-color: white;
+ transition:.3s ease-in-out;
+}
+
+@media screen and (max-width: 575px) {
+    
+    .premium{
+        scale: 1;
+    }
+}

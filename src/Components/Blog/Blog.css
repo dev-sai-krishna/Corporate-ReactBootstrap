@@ -1,0 +1,22 @@
+.blog{
+    background-color: lightgray;
+    padding: 2px 0;
+}
+
+.blog h1{
+    margin-top: 200px;
+}
+
+.card-body a:hover{
+    background-color: white;
+}
+
+.card-title{
+    color: orangered;
+}
+
+@media screen and (max-width: 575px) {
+    .card{
+       margin-bottom: 3rem; 
+    }
+}

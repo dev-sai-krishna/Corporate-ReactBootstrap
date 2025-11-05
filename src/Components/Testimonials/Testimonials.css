@@ -1,0 +1,17 @@
+.carousel-item img{
+    height: 400px;
+}
+
+.container .para{
+    color: white;
+}
+
+.content p{
+    color: gray;
+}
+
+@media screen and (max-width: 575px) {
+    .carousel-caption{
+        visibility: hidden;
+    }
+}

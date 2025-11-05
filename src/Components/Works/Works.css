@@ -1,0 +1,39 @@
+.portfolio-wrapper .img-fluid{
+    height: 15rem;
+    width: 25rem;
+}
+
+.portfolio-wrapper:hover{
+    scale: 1.1;
+    transition: 1s ease-in-out;
+}
+
+a{
+    text-decoration: none;
+ }
+
+h3{
+    margin-top: 1rem;
+    color: orangered;
+    font-weight: bold;
+}
+
+p{
+    margin-bottom: 2.5rem;
+    margin-top: -0.2rem;
+    color: black;
+}
+
+.pagination{
+    margin: 2rem 0rem
+}
+
+.page-link{
+    color: orangered;
+    font-size: 1.2rem;
+}
+
+.page-link:hover{
+    color: white;
+    background-color: orangered;
+}
